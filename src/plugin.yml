@@ -1,0 +1,5 @@
+name: DFancyJoin
+version: 1.0
+author: dalex
+main: at.dalex.join.Join
+commands:
